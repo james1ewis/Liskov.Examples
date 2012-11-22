@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Diagrams\TaskModel - 1.cd" />
+    <None Include="Diagrams\TaskModel - 2.cd" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />

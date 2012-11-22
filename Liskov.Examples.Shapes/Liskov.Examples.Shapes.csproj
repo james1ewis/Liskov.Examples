@@ -59,6 +59,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Diagrams\ShapesModel - 1.cd" />
+    <None Include="Diagrams\ShapesModel - 2.cd" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
