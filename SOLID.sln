@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov.Examples.Collections", "Liskov\Liskov.Examples.Collections.csproj", "{6FED55E6-E939-4D66-A2BB-8AB4E2B763FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov.Examples.Tasks", "Liskov - Task Example\Liskov.Examples.Tasks.csproj", "{BF3B3438-47F9-48E9-AA83-D7EBD011FD49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov.Examples.Shapes", "Liskov.Examples.Shapes\Liskov.Examples.Shapes.csproj", "{77AA5279-A96F-4B7F-8731-D1210A05490E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FED55E6-E939-4D66-A2BB-8AB4E2B763FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FED55E6-E939-4D66-A2BB-8AB4E2B763FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FED55E6-E939-4D66-A2BB-8AB4E2B763FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FED55E6-E939-4D66-A2BB-8AB4E2B763FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF3B3438-47F9-48E9-AA83-D7EBD011FD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3B3438-47F9-48E9-AA83-D7EBD011FD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3B3438-47F9-48E9-AA83-D7EBD011FD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3B3438-47F9-48E9-AA83-D7EBD011FD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77AA5279-A96F-4B7F-8731-D1210A05490E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77AA5279-A96F-4B7F-8731-D1210A05490E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77AA5279-A96F-4B7F-8731-D1210A05490E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77AA5279-A96F-4B7F-8731-D1210A05490E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

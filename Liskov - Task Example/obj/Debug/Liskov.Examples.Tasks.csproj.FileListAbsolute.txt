@@ -1,0 +1,7 @@
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov - Task Example\bin\Debug\Liskov.Examples.Tasks.dll
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov - Task Example\bin\Debug\Liskov.Examples.Tasks.pdb
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov - Task Example\bin\Debug\nunit.framework.dll
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov - Task Example\bin\Debug\nunit.framework.xml
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov - Task Example\obj\Debug\Liskov.Examples.Tasks.dll
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov - Task Example\obj\Debug\Liskov.Examples.Tasks.pdb
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov - Task Example\obj\Debug\Liskov.Examples.Tasks.csprojResolveAssemblyReference.cache

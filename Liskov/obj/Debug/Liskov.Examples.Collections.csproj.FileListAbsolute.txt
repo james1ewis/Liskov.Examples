@@ -1,0 +1,6 @@
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov\bin\Debug\Liskov.Examples.Collections.dll
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov\bin\Debug\Liskov.Examples.Collections.pdb
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov\bin\Debug\nunit.framework.dll
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov\bin\Debug\nunit.framework.xml
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov\obj\Debug\Liskov.Examples.Collections.dll
+C:\Users\jamesl\documents\visual studio 2012\Projects\Solid\Liskov\obj\Debug\Liskov.Examples.Collections.pdb
