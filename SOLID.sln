@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov.Examples.Tasks", "Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov.Examples.Shapes", "Liskov.Examples.Shapes\Liskov.Examples.Shapes.csproj", "{77AA5279-A96F-4B7F-8731-D1210A05490E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Liskov.Examples.Diagrams", "Liskov.Examples.Diagrams\Liskov.Examples.Diagrams.csproj", "{8BE174ED-F9B6-4DE5-850D-E99D924348ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{77AA5279-A96F-4B7F-8731-D1210A05490E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{77AA5279-A96F-4B7F-8731-D1210A05490E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{77AA5279-A96F-4B7F-8731-D1210A05490E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE174ED-F9B6-4DE5-850D-E99D924348ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE174ED-F9B6-4DE5-850D-E99D924348ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE174ED-F9B6-4DE5-850D-E99D924348ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE174ED-F9B6-4DE5-850D-E99D924348ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
